@@ -9,8 +9,7 @@
 
 - **IDEs**: Visual Studio Code, PyCharm.
 - **APIs**: Discord.py, Selenium, Requests.
-- **Databases**: MySQL, SQLite.
-- **Cloud**: AWS, DigitalOcean, and Aeza services.
+- **Cloud**: AWS, Aeza services.
 
 ---
 
