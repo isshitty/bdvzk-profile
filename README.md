@@ -7,9 +7,7 @@
 
 ## 🛠️ **Tools & Technologies**
 
-- **IDEs**: Visual Studio Code, PyCharm.
-- **APIs**: Discord.py, Selenium, Requests.
-- **Cloud**: AWS, Aeza services.
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,aws,stackoverflow,discord,gmail,proton)
 
 ---
 
