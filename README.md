@@ -7,7 +7,7 @@
 
 ## 🛠️ **Tools & Technologies**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,aws,stackoverflow,gmail,proton)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,aws,cloudflare,stackoverflow,gmail,proton)
 
 ---
 
